@@ -27,7 +27,7 @@
     "mathjs": "^6.0.3",
     "mysql2": "^1.6.5",
     "node-telegram-bot-api": "^0.30.0",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
